@@ -14,7 +14,7 @@ class DiscreteRV:
     Generates an array of draws from a discrete random variable with
     vector of probabilities given by q.
 
-    Parameters
+    Paraers
     ----------
     q : array_like(float)
         Nonnegative numbers that sum to 1.
